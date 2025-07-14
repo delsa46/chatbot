@@ -1,0 +1,15 @@
+[
+    {
+      "id": "123",
+      "title": "Trip to Shiraz",
+      "lastMessage": "When should we leave?",
+      "updatedAt": "2025-07-13T14:22:00Z"
+    },
+    {
+      "id": "456",
+      "title": "AI Project",
+      "lastMessage": "What's the target model?",
+      "updatedAt": "2025-07-12T09:15:00Z"
+    }
+  ]
+  
